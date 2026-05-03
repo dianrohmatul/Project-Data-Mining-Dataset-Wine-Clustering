@@ -32,9 +32,9 @@ st.markdown("""
 - **Kelas:** 2024 A  
 - **Semester:** 4  
 - **Mata Kuliah:** Data Mining  
-- **Program Studi:** S1 Sains Data  
-- **Fakultas:** Matematika dan Ilmu Pengetahuan Alam  
-- **Kampus:** Universitas Negeri Surabaya  
+- **Program Studi: S1 Sains Data** 
+- **Fakultas: Matematika dan Ilmu Pengetahuan Alam**
+- **Kampus: Universitas Negeri Surabaya**
 """)
 
 # [1] Load + Scale + PCA — semua di-cache agar tidak diulang setiap interaksi
