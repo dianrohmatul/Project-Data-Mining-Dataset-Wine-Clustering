@@ -29,6 +29,7 @@ st.set_page_config(page_title="Wine Clustering Dashboard", layout="wide")
 st.title("Wine Clustering — Interactive Dashboard")
 st.markdown("""
 - **Nama:** Dian Rohmatul Islam  
+- **Nim:** 24031554047
 - **Kelas:** 2024 A  
 - **Semester:** 4  
 - **Mata Kuliah:** Data Mining  
