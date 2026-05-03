@@ -27,6 +27,16 @@ except ImportError:
 # Konfigurasi halaman
 st.set_page_config(page_title="Wine Clustering Dashboard", layout="wide")
 st.title("Wine Clustering — Interactive Dashboard")
+st.markdown("""
+### 👤 Identitas Mahasiswa
+- **Nama:** Dian Rohmatul Islam  
+- **Kelas:** 2024 A  
+- **Semester:** 4  
+- **Mata Kuliah:** Data Mining  
+- **Program Studi:** S1 Sains Data  
+- **Fakultas:** Matematika dan Ilmu Pengetahuan Alam  
+- **Kampus:** Universitas Negeri Surabaya  
+""")
 
 # [1] Load + Scale + PCA — semua di-cache agar tidak diulang setiap interaksi
 @st.cache_data
