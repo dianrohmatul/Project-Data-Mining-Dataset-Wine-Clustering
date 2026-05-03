@@ -28,7 +28,6 @@ except ImportError:
 st.set_page_config(page_title="Wine Clustering Dashboard", layout="wide")
 st.title("Wine Clustering — Interactive Dashboard")
 st.markdown("""
-### 👤 Identitas Mahasiswa
 - **Nama:** Dian Rohmatul Islam  
 - **Kelas:** 2024 A  
 - **Semester:** 4  
